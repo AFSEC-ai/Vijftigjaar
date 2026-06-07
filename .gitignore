@@ -1,0 +1,4 @@
+.local-data/
+.vercel/
+node_modules/
+*.log

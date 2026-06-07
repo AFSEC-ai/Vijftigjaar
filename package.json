@@ -1,0 +1,10 @@
+{
+  "name": "arjen-christine-50-50-25",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "check": "node --check api/rsvp.js && node --check server.mjs"
+  }
+}
