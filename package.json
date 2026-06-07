@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "node server.mjs",
+    "build": "node build.mjs",
     "check": "node --check api/rsvp.js && node --check server.mjs"
   }
 }
